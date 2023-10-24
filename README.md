@@ -7,6 +7,7 @@
 3.  Submit to detect liklihood of fraud💬
 4.  If any fraud is detected, submit details for a template email be made to send back to the doctor
 
+![Screenshot 2023-10-24 143637](https://github.com/Pvayush/MediGuard/assets/19957289/c32687a0-6a97-4bb2-b92f-86a15d26c2a3)
  
  
 
