@@ -9,7 +9,8 @@
 
 ![Screenshot 2023-10-24 143637](https://github.com/Pvayush/MediGuard/assets/19957289/c32687a0-6a97-4bb2-b92f-86a15d26c2a3)
  
- 
+ ![Screenshot 2023-10-24 14383d](https://github.com/Pvayush/MediGuard/assets/19957289/184e2fe7-2959-45f6-a443-adb2ba6a3026)
+
 
 **WHAT IT DOES**
 
